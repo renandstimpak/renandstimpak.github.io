@@ -96,6 +96,10 @@ create space between posts */
   text-align: center;
 }
 
+.gallery-title {
+  margin-left: 10px;
+}
+
 /* use this border radius value to make images round */
 .about-author img {
   width: 200px;
