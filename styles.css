@@ -78,6 +78,10 @@ create space between posts */
   padding: 60px 0;
 }
 
+.post img {
+  vertical-align: center;
+}
+
 /* gold challenge: alternate post bg-colors
 .post-container
 :nth-child(even){
